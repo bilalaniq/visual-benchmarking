@@ -1,6 +1,6 @@
 # visual benchmarking
 
-before diving into visual benchmarking click [here]() to learn about benchmarking
+before diving into visual benchmarking click [here](./benchmarking.md) to learn about benchmarking
 
 who does not like seing data in form of line where the tridisional result of benchmarking is quite boring so lets make it intreating
 by using visual benchmarking
